@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/rss/:match*",
+            "destination": "http://118.31.244.237:1200/:match*"
+        }
+    ]
+}
