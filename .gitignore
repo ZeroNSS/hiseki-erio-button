@@ -24,3 +24,5 @@ test
 .stylelintcache
 
 deploy
+
+.vercel
