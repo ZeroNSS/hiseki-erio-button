@@ -16,7 +16,7 @@ module.exports = {
         compress: true, // 是否启用gzip压缩
         proxy: {
             '/rss': {
-                target: 'https://rsshub.cmyr.ltd/',
+                target: 'http://118.31.244.237:1200',
                 ws: true,
                 changOrigin: true,
                 pathRewrite: {
@@ -28,7 +28,7 @@ module.exports = {
     productionSourceMap: __DEV__, // 移除生产环境的 source map
     chainWebpack: config => {
         config.plugin('html').tap(([options]) => {
-            options.title = '豹按钮 (:3っ)∋'
+            options.title = '艾莉欧音声站 (๑>؂<๑）'
             options.__DEV__ = __DEV__
             options.__PROD__ = __PROD__
             return [options]

@@ -18,10 +18,10 @@
                         <strong>ZeroNSS</strong> All Rights Rese.
                     </a>
                 </p>
-                
+
                 <p>
                     <a target="_blank" href="https://github.com/ZeroNSS/hiseki-erio-button">
-                        <v-icon color="primary">iconfont icon-github2</v-icon>
+                        <v-icon color="primary">iconfont icon-github</v-icon>
                         {{ $t('ProjectAddress') }}
                     </a>
                 </p>

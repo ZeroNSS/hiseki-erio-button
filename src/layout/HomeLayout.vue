@@ -48,7 +48,7 @@
                         v-on="{...tooltip}"
                     >
                         <v-icon size="28">
-                            iconfont icon-github2
+                            iconfont icon-github
                         </v-icon>
                     </v-btn>
                 </template>
