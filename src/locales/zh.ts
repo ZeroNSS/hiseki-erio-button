@@ -24,9 +24,13 @@ export default {
         FixedControlPanel: '固定控制面板',
     },
     tags: { // tag 的翻译
-        Other: '其他',
-        Songs: '团歌',
-        Test: '测试类',
+        witticisms: 'Erio名台词',
+        daily: 'Erio日常语音',
+        dialogue: 'Erio小剧场',
+        prprpr: '',
+        rorio: '',
+        hdame: '',
+        
     },
     ProjectAddress: '项目地址',
     BackToTop: '返回顶部',

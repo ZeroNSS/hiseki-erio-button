@@ -38,6 +38,16 @@
                         </div>
                     </v-card-text>
                     <v-card-text>
+                        <h2>剪辑协力者</h2>
+                        <br>
+                        <div v-for="item in contributorList" :key="item.url">
+                            <h3>
+                                {{ item.msg }}, 地址：
+                                <a :href="item.url" target="_blank">{{ item.url }}</a>
+                            </h3>
+                        </div>
+                    </v-card-text>
+                    <v-card-text>
                         <h2>友情链接</h2>
                         <br>
                         <div v-for="item in friendshipLinks" :key="item.url">
@@ -120,6 +130,28 @@ export default defineComponent({
                 {
                     msg: 'CDN服务：jsdelivr',
                     url: 'https://www.jsdelivr.com/',
+                },
+            ],
+            contributorList: [
+                {
+                    msg: '沈黙の天空',
+                    url: 'https://space.bilibili.com/503281/',
+                },
+                {
+                    msg: '叶加濑秋叶',
+                    url: 'https://space.bilibili.com/186870179/',
+                },
+                {
+                    msg: '开什么星际玩笑',
+                    url: 'https://space.bilibili.com/235972/',
+                },
+                {
+                    msg: 'erio明',
+                    url: 'https://space.bilibili.com/87588727/',
+                },
+                {
+                    msg: 'nyu-nyu',
+                    url: 'https://space.bilibili.com/16768366/',
                 },
             ],
             referList: [

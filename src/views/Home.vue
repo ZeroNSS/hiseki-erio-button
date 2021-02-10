@@ -27,14 +27,16 @@
                         >
                             欢迎来到 “艾莉欧音声站 (๑>؂&lt;๑）” 项目，这是一个从
                             <a target="_blank" href="https://vtbbtn.org/">https://vtbbtn.org/</a>
-                            获得灵感的项目，感觉很有意思。<br>
-                            诚邀日语、英语翻译，本人日语、英语本当锤子，全靠机翻；诚邀剪辑man，一个人实在剪辑不过来。<br>
+                            获得灵感的项目。<br>
+                            私日本語本当下手，全靠机翻；诚邀剪辑man，一个人实在剪辑不过来。<br>
                             <b>新增音声</b>：如果会编程的可以直接上
                             <a target="_blank" href="https://github.com/ZeroNSS/hiseki-erio-button">GitHub</a>
                             fork，修改完后提 pull request ，不会编程的可以提个 issue<br>
                             <b>使用指南</b>：点击按钮即可播放对应音声；多次点击可以造成相当鬼畜的效果；开启洗脑循环将会一直播放一个音频；
                             同时开启循环播放和洗脑循环将会出现 地 狱 绘 卷。<br>
                             <b>声明</b>：本项目仅为 DD 作品，和 绯赤艾莉欧Official 官方没有关联<br>
+                            <b>特别感谢</b>：“ <a target="_blank" href="https://github.com/CaoMeiYouRen/shirakami-haruka-button"> 豹按钮(:3っ)∋</a> ”
+                            项目，初版源码基本来自于此项目，将于2月开始进行实质的功能性更新<br>
                             更多内容请参考 <a href="https://github.com/ZeroNSS/hiseki-erio-button#readme" target="_blank">README</a>
                         </v-col>
                     </v-row>

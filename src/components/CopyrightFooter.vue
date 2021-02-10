@@ -52,7 +52,7 @@ export default defineComponent({
             githubs: [
                 {
                     alt: 'GitHub package.json version',
-                    src: 'https://img.shields.io/github/package-json/v/ZeroNSS/hiseki-erio-button?color=00a1d6',
+                    src: 'https://img.shields.io/github/package-json/v/ZeroNSS/hiseki-erio-button?color=ca535b',
                 },
                 {
                     alt: 'GitHub watchers',

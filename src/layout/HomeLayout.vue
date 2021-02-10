@@ -176,6 +176,7 @@ const menuList = computed(() => [
         name: i18n.t('menu.About'),
         path: '/about',
     },
+    /*
     {
         icon: 'mdi-download',
         name: i18n.t('menu.Download'),
@@ -190,6 +191,7 @@ const menuList = computed(() => [
             window.open(url)
         },
     },
+    */
 ])
 
 function backTop() {

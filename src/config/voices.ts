@@ -27,54 +27,19 @@ export interface VoiceInfo {
 const voices: VoiceInfo[] = [
     {
         messages: {
-            zh: 'days',
+            zh: 'ccll的大家都是我的恋人',
             en: 'days',
             ja: 'days',
         },
-        path: 'days.mp3',
-        tag: 'Songs',
+        path: 'ccll的大家都是我的恋人.mp3',
+        tag: 'witticisms',
     },
     {
         messages: {
-            zh: '单相思转圈台修复版',
+            zh: '不能惯坏你们这些可爱的小猪',
         },
-        path: '单相思修复版.mp3',
-        tag: 'Songs',
-    },
-    {
-        messages: {
-            zh: '好可怕，哥哥是个被骂还开心的变态',
-        },
-        path: '好可怕，哥哥是个被骂还开心的变态.mp3',
-        tag: 'Other',
-    },
-    {
-        messages: {
-            zh: '你在看哪里呀~baka baka baka',
-        },
-        path: '你在看哪里呀~baka baka baka.mp3',
-        tag: 'Other',
-    },
-    {
-        messages: {
-            zh: '素敌',
-        },
-        path: '素敌.mp3',
-        tag: 'Songs',
-    },
-    {
-        messages: {
-            zh: '文乃的文乃的幸福理论',
-        },
-        path: '文乃的幸福理论.mp3',
-        tag: 'Test',
-    },
-    {
-        messages: {
-            zh: '钻石裂痕',
-        },
-        path: '钻石裂痕.mp3',
-        tag: 'Test',
+        path: '不能惯坏你们这些可爱的小猪.mp3',
+        tag: 'witticisms',
     },
 ]
 export default voices

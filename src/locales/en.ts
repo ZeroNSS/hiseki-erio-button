@@ -24,9 +24,13 @@ export default {
         FixedControlPanel: 'FixedControlPanel',
     },
     tags: {
-        Other: 'Other',
-        Songs: 'Songs',
-        Test: 'Test',
+        witticisms: 'Witticisms',
+        daily: 'Erio\'s daily',
+        dialogue: 'Erio\'s dialogue',
+        prprpr: '',
+        rorio: '',
+        hdame: '',
+        
     },
     ProjectAddress: 'ProjectAddress',
     BackToTop: 'BackToTop',

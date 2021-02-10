@@ -24,9 +24,13 @@ export default {
         FixedControlPanel: '固定コントロールパネル',
     },
     tags: {
-        Other: 'その他',
-        Songs: '曲',
-        Test: 'テスト',
+        witticisms: '名言',
+        daily: '日常会話',
+        dialogue: 'セリフ',
+        prprpr: '',
+        rorio: '',
+        hdame: '',
+        
     },
     ProjectAddress: 'プロジェクトのアドレス',
     BackToTop: 'トップに戻る',
