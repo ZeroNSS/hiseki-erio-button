@@ -42,14 +42,14 @@ const voices: VoiceInfo[] = [
         tag: 'witticisms',
     },
 
-    // -------hdame------public/voices/hdame---------------
+    // -------hdame------public/voices/不许涩团长---------------
     {
         messages: {
             zh: '镇站片段',
             en: '',
             ja: '',
         },
-        path: '/hdame/镇站片段.mp3',
+        path: '/不许涩团长/镇站片段.mp3',
         tag: 'hdame',
     },
     {
@@ -58,7 +58,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/hdame/别的社死都是假的，这个是真的.mp3',
+        path: '/不许涩团长/别的社死都是假的，这个是真的.mp3',
         tag: 'hdame',
     },
     {
@@ -67,7 +67,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/hdame/欧湃欧湃nobra-ytb1周年_01.mp3',
+        path: '/不许涩团长/欧湃欧湃nobra-ytb1周年_01.mp3',
         tag: 'hdame',
     },
     {
@@ -76,7 +76,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/hdame/涩气投喂.mp3',
+        path: '/不许涩团长/涩气投喂.mp3',
         tag: 'hdame',
     },
     {
@@ -85,7 +85,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/hdame/涩涩的深呼吸.mp3',
+        path: '/不许涩团长/涩涩的深呼吸.mp3',
         tag: 'hdame',
     },
     {
@@ -94,7 +94,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/hdame/伸懒腰的团长1（45W纪念回 28.40).mp3',
+        path: '/不许涩团长/伸懒腰的团长1（45W纪念回 28.40).mp3',
         tag: 'hdame',
     },
     {
@@ -103,7 +103,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/hdame/伸懒腰的团长2（45W纪念回 1.09.00).mp3',
+        path: '/不许涩团长/伸懒腰的团长2（45W纪念回 1.09.00).mp3',
         tag: 'hdame',
     },
     {
@@ -112,7 +112,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/hdame/昂（媚）-ytb1周年_01.mp3',
+        path: '/不许涩团长/昂（媚）-ytb1周年_01.mp3',
         tag: 'hdame',
     },
     {
@@ -121,7 +121,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/hdame/erio便太发言：大小姐没穿胖次.mp3',
+        path: '/不许涩团长/erio便太发言：大小姐没穿胖次.mp3',
         tag: 'hdame',
     },
 ]
