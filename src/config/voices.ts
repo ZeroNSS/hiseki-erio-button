@@ -25,24 +25,277 @@ export interface VoiceInfo {
     isPlay?: boolean
 }
 const voices: VoiceInfo[] = [
-    {
+    
+ //-------witticisms-----------public/voices/erio名台词-------------   
+   
+ {
         messages: {
             zh: 'ccll的大家都是我的恋人',
             en: 'days',
             ja: 'days',
         },
-        path: 'ccll的大家都是我的恋人.mp3',
+        path: '/erio名台词/ccll的大家都是我的恋人.mp3',
+        tag: 'witticisms',
+    },
+    {
+        messages: {
+            zh: '你的判次啥颜色',
+            en: '',
+            ja: '',
+        },
+        path: '/erio名台词/你的判次啥颜色.mp3',
         tag: 'witticisms',
     },
     {
         messages: {
             zh: '不能惯坏你们这些可爱的小猪',
+            en: '',
+            ja: '',
         },
-        path: '不能惯坏你们这些可爱的小猪.mp3',
+        path: '/erio名台词/不能惯坏你们这些可爱的小猪.mp3',
+        tag: 'witticisms',
+    },
+    {
+        messages: {
+            zh: '你们啊，不要停下来啊1',
+            en: '',
+            ja: '',
+        },
+        path: '/erio名台词/你们啊，不要停下来啊 （团长的教诲1）.mp3',
+        tag: 'witticisms',
+    },
+    {
+        messages: {
+            zh: '你们啊，不要停下来啊2',
+            en: '',
+            ja: '',
+        },
+        path: '/erio名台词/所以，你们啊，不要停下来啊！（二）.mp3',
+        tag: 'witticisms',
+    },
+    {
+        messages: {
+            zh: '不要说乳团 h',
+            en: '',
+            ja: '',
+        },
+        path: '/erio名台词/不要说乳团 h.mp3',
+        tag: 'witticisms',
+    },
+    {
+        messages: {
+            zh: '对面的女粉看过来',
+            en: '',
+            ja: '',
+        },
+        path: '/erio名台词/对面的女粉看过来.mp3',
+        tag: 'witticisms',
+    },
+    {
+        messages: {
+            zh: '虚拟世界不存在重婚罪',
+            en: '',
+            ja: '',
+        },
+        path: '/erio名台词/虚拟世界不存在重婚罪.mp3',
+        tag: 'witticisms',
+    },
+    {
+        messages: {
+            zh: '这个点不会还有人在工作吧？不会吧不会吧',
+            en: '',
+            ja: '',
+        },
+        path: '/erio名台词/这个点不会还有人在工作吧？不会吧不会吧.mp3',
+        tag: 'witticisms',
+    },
+    {
+        messages: {
+            zh: '不要叫我渣男~我也没办法',
+            en: '',
+            ja: '',
+        },
+        path: '/erio名台词/不要叫我渣男~我也没办法（20210116 185.3）.mp3',
         tag: 'witticisms',
     },
 
+//-------dialogue-----------public/voices/erio台词回-------------   
+
+{
+    messages: {
+        zh: '暗黑桃太郎故事',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/暗黑桃太郎故事.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '先来吃我还是先吃我呢？',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/先来吃我还是先吃我呢？.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: 'erio上司的训斥',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/erio上司的训斥.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '2020情人节傲娇台词',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/2020情人节傲娇台词.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '傲娇erio （20210120台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/傲娇erio （20210120台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '病娇可爱妹妹（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/病娇可爱妹妹（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '大老婆咬耳朵（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/大老婆咬耳朵（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '老婆帮忙（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/老婆帮忙（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '老婆探病（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/老婆探病（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '老婆我回来了（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/老婆我回来了（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '男女朋友（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/男女朋友（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '巧克力1（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/巧克力1（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '巧克力2（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/巧克力2（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '青梅竹马（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/青梅竹马（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '软软撒娇老婆（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/软软撒娇老婆（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '我要保护你一辈子（20210116 186分）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/我要保护你一辈子（20210116 186分）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '小老婆要闹了（20210119台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/小老婆要闹了（20210119台词回）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '新婚台词1 欢迎回来~（20210119 台词回 28.21）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/新婚台词1 欢迎回来~（20210119 台词回 28.21）.mp3',
+    tag: 'dialogue',
+},
+{
+    messages: {
+        zh: '中二erio （20210120台词回）',
+        en: '',
+        ja: '',
+    },
+    path: '/erio台词回/中二erio （20210120台词回）.mp3',
+    tag: 'dialogue',
+},
+
+
     // -------hdame------public/voices/不许涩团长---------------
+    
     {
         messages: {
             zh: '镇站片段',
