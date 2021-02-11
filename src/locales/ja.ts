@@ -32,6 +32,7 @@ export default {
         hdame: '',
         ikemen: 'イケメン エリオ',
         mature: '',
+        acappella: 'アカペラ',
     },
     ProjectAddress: 'プロジェクトのアドレス',
     BackToTop: 'トップに戻る',

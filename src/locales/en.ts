@@ -32,6 +32,7 @@ export default {
         hdame: '',
         ikemen: '',
         mature: '',
+        acappella: 'acappella',
     },
     ProjectAddress: 'ProjectAddress',
     BackToTop: 'BackToTop',

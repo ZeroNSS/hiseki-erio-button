@@ -293,8 +293,63 @@ const voices: VoiceInfo[] = [
     tag: 'dialogue',
 },
 
+//-------acappella------public/voices/清唱库---------------
+{
+    messages: {
+        zh: '雨が降る清唱',
+        en: '',
+        ja: '',
+    },
+    path: '/清唱库/雨が降る清唱  (2021128  65.52).mp3',
+    tag: 'acappella',
+},
+{
+    messages: {
+        zh: '钻石裂痕清唱一段',
+        en: '',
+        ja: '',
+    },
+    path: '/清唱库/钻石裂痕清唱一段.mp3',
+    tag: 'acappella',
+},
+{
+    messages: {
+        zh: '清唱aimo~鸟之人',
+        en: '',
+        ja: '',
+    },
+    path: '/清唱库/清唱aimo~鸟之人.mp3',
+    tag: 'acappella',
+},
+{
+    messages: {
+        zh: '红莲的弓矢清唱',
+        en: '',
+        ja: '',
+    },
+    path: '/清唱库/红莲的弓矢清唱（138647504-1-192-33min）_audio_index0_01.mp3',
+    tag: 'acappella',
+},
+{
+    messages: {
+        zh: 'ユニバーサル  バニー 宇宙黑白兔',
+        en: '',
+        ja: '',
+    },
+    path: '/清唱库/ユニバーサル  バニー 清唱.mp3',
+    tag: 'acappella',
+},
+{
+    messages: {
+        zh: '清唱一段~(45W纪念回 17.09)',
+        en: '',
+        ja: '',
+    },
+    path: '/清唱库/清唱一段~(45W纪念回 17.09).mp3',
+    tag: 'acappella',
+},
 
-    // -------hdame------public/voices/不许涩团长---------------
+//-------hdame------public/voices/不许涩团长---------------
     
     {
         messages: {
@@ -377,5 +432,115 @@ const voices: VoiceInfo[] = [
         path: '/不许涩团长/erio便太发言：大小姐没穿胖次.mp3',
         tag: 'hdame',
     },
+// -------rorio------public/voices/rorio语音库---------------
+{
+    messages: {
+        zh: '神萝天征',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/神萝天征.mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: 'rorio第一次和你啾',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/rorio第一次和你啾（45W纪念回 58.26).mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: 'rorio好好唱歌了~快表扬rorio',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/rorio好好唱歌了~快表扬rorio（45W纪念回 1.42.15).mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: 'rorio喜欢大家 muamua',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/rorio喜欢大家 muamua（45W纪念回 2.01.28).mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: 'rorio便太不要过来呀',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/rorio便太不要过来呀（20210116 51分30秒）.mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: 'rorio只有10岁不能结婚哦',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/rorio只有10岁不能结婚哦（45W纪念回 1.42.51).mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: '好可怕，哥哥是个被骂还开心的便太',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/好可怕，哥哥是个被骂还开心的便太.mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: '好耶，感谢哥哥的压岁钱，mua~',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/好耶，感谢哥哥的压岁钱，mua.mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: 'rorio do not touch me',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/rorio do not touch me.mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: '到此为止',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/1-29 到此为止.mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: 'rorio一袋哟',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/rorio一袋哟.mp3',
+    tag: 'rorio',
+},
+{
+    messages: {
+        zh: '萝莉欧叫声1 ｛die嘿｝19.05-19',
+        en: '',
+        ja: '',
+    },
+    path: '/rorio语音库/萝莉欧叫声1 ｛die嘿｝19.05-19.mp3',
+    tag: 'rorio',
+},
+
 ]
 export default voices
