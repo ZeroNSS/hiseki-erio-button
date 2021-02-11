@@ -29,7 +29,7 @@ export default {
         dialogue: 'Erio小剧场',
         prprpr: 'prprpr',
         rorio: '萝莉欧',
-        hdame: '不许涩团长',
+        hdame: 'hdame',
         ikemen: '池面Erio',
         mature: '姐Erio',
     },
