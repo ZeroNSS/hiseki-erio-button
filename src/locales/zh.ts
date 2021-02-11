@@ -30,10 +30,12 @@ export default {
         prprpr: 'prprpr',
         rorio: '萝莉欧',
         hdame: '不许涩团长',
-        ikemen: '池面Erio',
+        ikeman: '池面Erio',
         mature: '姐Erio',
         acappella: '清唱',
+        nya: 'nyanya~',
     },
+    
     ProjectAddress: '项目地址',
     BackToTop: '返回顶部',
     FriendlyLink: '友情链接',

@@ -33,6 +33,7 @@ export default {
         ikemen: 'イケメン エリオ',
         mature: '',
         acappella: 'アカペラ',
+        nya: 'nyanya~',
     },
     ProjectAddress: 'プロジェクトのアドレス',
     BackToTop: 'トップに戻る',

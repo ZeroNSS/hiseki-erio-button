@@ -33,6 +33,7 @@ export default {
         ikemen: '',
         mature: '',
         acappella: 'acappella',
+        nya: 'nyanya~',
     },
     ProjectAddress: 'ProjectAddress',
     BackToTop: 'BackToTop',

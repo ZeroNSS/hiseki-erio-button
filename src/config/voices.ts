@@ -119,6 +119,379 @@ const voices: VoiceInfo[] = [
         path: '/erio名台词/不要叫我渣男~我也没办法（20210116 185.3）.mp3',
         tag: 'witticisms',
     },
+    /**
+ * daily----public/voices/erio日常语音-----------
+ */
+    {
+        messages: {
+            zh: '谢谢你爱上我',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/谢谢你爱上我.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '绯赤艾利欧（自我介绍）-ytb1周年_01',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/绯赤艾利欧（自我介绍）-ytb1周年_01.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '新年快乐',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/新年快乐.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '谢谢礼物，我很可爱，好耶（中文）',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/谢谢礼物，我很可爱，好耶（中文）.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '幸苦了 辛苦你了（中文）',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/幸苦了 辛苦你了（中文）（45W纪念回 1.23.27).mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '正常无路赛',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/正常无路赛.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '我系日本人，你是个好人',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/我系日本人，你是个好人-ytb1周年_01.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '老公爱你老公mua',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/老公爱你老公mua.aac',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '我爱你mua~',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/我爱你mua~.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '我是大家的媳妇',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/我是大家的媳妇（20200203 P2 1.05).mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '我很快（可爱）',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/我很快（可爱）-ytb1周年_01.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '团长学鹦鹉叫还挺别致的',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/团长学鹦鹉叫还挺别致的 2021128  28.30.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '我是吉影吉良',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/我是吉影吉良 （20210116  182分）.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '铁咩',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/铁咩（20210117 第五人格）.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '提取音频-住在一起吧',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/提取音频-住在一起吧.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '清嗓子 噗噗噗噗',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/清嗓子 噗噗噗噗（20201221 21.05）.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '傻团的笑声',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/傻团的笑声.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '桥豆麻袋欧尼桑',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/桥豆麻袋欧尼桑（17live_4084348_20190917_084442.ts_audio_index0_01-40min）.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '噗嘿',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/噗嘿 来自erio19.05-19.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '骗你的呢（萌音）',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/骗你的呢（萌音）-ytb1周年_01.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '喷射战士真好玩嗯~伸懒腰',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/喷射战士真好玩嗯~伸懒腰（20210116 153分）.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '你在看哪里呀~baka baka baka',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/你在看哪里呀~baka baka baka.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '你们好严格 好鬼畜',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/你们好严格 好鬼畜（45W纪念回 28.15).mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '可爱，好耶，kksk（中文）',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/可爱，好耶，kksk（中文）.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '老板大气',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/老板大气 (45W纪念回3.40).mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '咪啪-',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/咪啪-ytb1周年_01.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '卡拉ok 哒哒哒哒',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/卡拉ok 哒哒哒哒（45W纪念回 18.05).mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '卡卡卡北北北',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/卡卡卡北北北.wav',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '呼气声（99分的好听）',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/呼气声（99分的好听）.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '喝水',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/喝水.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '把钱交出来',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/把钱交出来-ytb1周年_01.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '拜拜 晚安',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/拜拜 晚安.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '对你的心 love 射击~ mua~mua',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/对你的心 love 射击~ mua~mua (45W纪念回6.28).mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: '果咩（道歉时请不要笑啊喂）',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/果咩（道歉时请不要笑啊喂）2021128  27.42.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: 'erio叫你卞态了',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/erio叫你卞态了.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: 'yihiahiahia',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/yihiahiahia 来自erio19-05-19.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: 'pololive',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/pololive-ytb1周年_01.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: 'erio喝水憋笑啦~鬼畜笑声',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/erio喝水憋笑啦~鬼畜笑声.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: 'bing↓ bong↓  bang↓  (上课啦）',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/bing↓ bong↓  bang↓  (上课啦）（45W纪念回 1.59.17).mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: 'bing↑ bong↑  bang↑  (下课啦）',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/bing↑ bong↑  bang↑  (下课啦）（45W纪念回 1.58.34).mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
+            zh: 'bian态3连',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/bian态3连（緋赤エリオ_200214_1703_BiliBili_【B限定】「声音好听的大姐姐 2／14—23min）_audio_index0_01.mp3',
+        tag: 'daily',
+    },
+
 
     /**
  * dialogue----public/voices/erio台词回-----------
@@ -436,6 +809,15 @@ const voices: VoiceInfo[] = [
         path: '/不许涩团长/erio便太发言：大小姐没穿胖次.mp3',
         tag: 'hdame',
     },
+    {
+        messages: {
+            zh: '好听的',
+            en: '',
+            ja: '',
+        },
+        path: '/不许涩团长/好听的 19.05-14.mp3',
+        tag: 'hdame',
+    },
     /**
 *----rorio------public/voices/rorio语音库--------------------
 */
@@ -688,5 +1070,149 @@ const voices: VoiceInfo[] = [
         path: '/池面erio语音库/池面团长的撩妹台词（45W纪念回 1.12.55).mp3',
         tag: 'ikeman',
     },
+
+    /**
+  *-------prprpr------public/voices/prprpr弹药库---------------------
+  */
+    {
+        messages: {
+            zh: '坏心眼姐姐的虚假prpr',
+            en: '',
+            ja: '',
+        },
+        path: '/prprpr弹药库/坏心眼姐姐的虚假prpr.mp3',
+        tag: 'prprpr',
+    },
+    {
+        messages: {
+            zh: '坏姐姐的高速prpr（45W纪念回 1.59.48)',
+            en: '',
+            ja: '',
+        },
+        path: '/prprpr弹药库/坏姐姐的高速prpr（45W纪念回 1.59.48).mp3',
+        tag: 'prprpr',
+    },
+    {
+        messages: {
+            zh: '哈喇子直流的prprpr',
+            en: '',
+            ja: '',
+        },
+        path: '/prprpr弹药库/哈喇子直流的prprpr.mp3',
+        tag: 'prprpr',
+    },
+    {
+        messages: {
+            zh: '关西腔开头的prpr',
+            en: '',
+            ja: '',
+        },
+        path: '/prprpr弹药库/关西腔开头的prpr （2021128  126.35）.mp3',
+        tag: 'prprpr',
+    },
+    {
+        messages: {
+            zh: 'rorio的陷阱prpr',
+            en: '',
+            ja: '',
+        },
+        path: '/prprpr弹药库/rorio的陷阱prpr  20201230台詞配信尾.mp3',
+        tag: 'prprpr',
+    },
+    {
+        messages: {
+            zh: 'rorio的欧尼酱prprpr（20201221 66.44）',
+            en: '',
+            ja: '',
+        },
+        path: '/prprpr弹药库/rorio的欧尼酱prprpr（20201221 66.44）.mp3',
+        tag: 'prprpr',
+    },
+    {
+        messages: {
+            zh: '2021第一次prpr回马枪版',
+            en: '',
+            ja: '',
+        },
+        path: '/prprpr弹药库/2021第一次prpr回马枪版（20210116）.mp3',
+        tag: 'prprpr',
+    },
+    {
+        messages: {
+            zh: '2020谢谢 roiro的全力prpr(20201231尾）',
+            en: '',
+            ja: '',
+        },
+        path: '/prprpr弹药库/2020谢谢 roiro的全力prpr(20201231尾）.mp3',
+        tag: 'prprpr',
+    },
+    {
+        messages: {
+            zh: 'pinopino?',
+            en: '',
+            ja: '',
+        },
+        path: '/prprpr弹药库/带施法前摇pr pino.mp3',
+        tag: 'prprpr',
+    },
+
+    /**
+    *-------nya------public/voices/nyanyanyanya~---------------------
+    */
+    {
+        messages: {
+            zh: 'nyanyanya',
+            en: '',
+            ja: '',
+        },
+        path: '/nyanyanyanya~/nyanyanya(20190217 12.20).mp3',
+        tag: 'nya',
+    },
+    {
+        messages: {
+            zh: 'nyanyanya~',
+            en: '',
+            ja: '',
+        },
+        path: '/nyanyanyanya~/nyanyanya~(45W纪念回 16.00).mp3',
+        tag: 'nya',
+    },
+    {
+        messages: {
+            zh: 'nyaaaaa',
+            en: '',
+            ja: '',
+        },
+        path: '/nyanyanyanya~/nyaaaaa（20200203 P2  16.40).mp3',
+        tag: 'nya',
+    },
+    {
+        messages: {
+            zh: 'nya 1',
+            en: '',
+            ja: '',
+        },
+        path: '/nyanyanyanya~/nya 4(20190217 31.40).mp3',
+        tag: 'nya',
+    },
+    {
+        messages: {
+            zh: 'nya 2',
+            en: '',
+            ja: '',
+        },
+        path: '/nyanyanyanya~/nya 2(20190217 20.10).mp3',
+        tag: 'nya',
+    },
+    {
+        messages: {
+            zh: 'nya 3',
+            en: '',
+            ja: '',
+        },
+        path: '/nyanyanyanya~/nya 3(20190217 20.30).mp3',
+        tag: 'nya',
+    },
+
 ]
 export default voices
