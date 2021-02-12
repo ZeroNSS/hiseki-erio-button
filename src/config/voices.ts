@@ -32,19 +32,19 @@ const voices: VoiceInfo[] = [
     {
         messages: {
             zh: 'ccll的大家都是我的恋人',
-            en: 'days',
-            ja: 'days',
+            en: '',
+            ja: '',
         },
         path: '/erio名台词/ccll的大家都是我的恋人.mp3',
         tag: 'witticisms',
     },
     {
         messages: {
-            zh: '你的判次啥颜色',
+            zh: '你的胖次啥颜色',
             en: '',
             ja: '',
         },
-        path: '/erio名台词/你的判次啥颜色.mp3',
+        path: '/erio名台词/你的胖次啥颜色.mp3',
         tag: 'witticisms',
     },
     {
@@ -133,7 +133,7 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
-            zh: '绯赤艾利欧（自我介绍）-ytb1周年_01',
+            zh: '绯赤艾利欧（自我介绍）-ytb1周年',
             en: '',
             ja: '',
         },
@@ -191,7 +191,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/erio日常语音/老公爱你老公mua.aac',
+        path: '/erio日常语音/老公爱你老公mua.mp3',
         tag: 'daily',
     },
     {
@@ -221,6 +221,7 @@ const voices: VoiceInfo[] = [
         path: '/erio日常语音/我很快（可爱）-ytb1周年_01.mp3',
         tag: 'daily',
     },
+    /**
     {
         messages: {
             zh: '团长学鹦鹉叫还挺别致的',
@@ -230,6 +231,7 @@ const voices: VoiceInfo[] = [
         path: '/erio日常语音/团长学鹦鹉叫还挺别致的 2021128  28.30.mp3',
         tag: 'daily',
     },
+*/
     {
         messages: {
             zh: '我是吉影吉良',
@@ -250,7 +252,7 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
-            zh: '提取音频-住在一起吧',
+            zh: '住在一起吧',
             en: '',
             ja: '',
         },
@@ -349,7 +351,7 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
-            zh: '咪啪-',
+            zh: '咪啪',
             en: '',
             ja: '',
         },
@@ -371,7 +373,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/erio日常语音/卡卡卡北北北.wav',
+        path: '/erio日常语音/卡卡卡北北北.mp3',
         tag: 'daily',
     },
     {
@@ -430,11 +432,11 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
-            zh: 'erio叫你卞态了',
+            zh: 'erio叫你变态了',
             en: '',
             ja: '',
         },
-        path: '/erio日常语音/erio叫你卞态了.mp3',
+        path: '/erio日常语音/erio叫你变态了.mp3',
         tag: 'daily',
     },
     {
@@ -466,6 +468,15 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
+            zh: '当当当~呼~呼~呼~麦克风先生坚持住呀~',
+            en: '',
+            ja: '',
+        },
+        path: '/erio日常语音/当当当~呼~呼~呼~麦克风先生坚持住呀~.mp3',
+        tag: 'daily',
+    },
+    {
+        messages: {
             zh: 'bing↓ bong↓  bang↓  (上课啦）',
             en: '',
             ja: '',
@@ -484,14 +495,13 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
-            zh: 'bian态3连',
+            zh: '变态3连',
             en: '',
             ja: '',
         },
-        path: '/erio日常语音/bian态3连（緋赤エリオ_200214_1703_BiliBili_【B限定】「声音好听的大姐姐 2／14—23min）_audio_index0_01.mp3',
+        path: '/erio日常语音/变态3连（緋赤エリオ_200214_1703_BiliBili_【B限定】「声音好听的大姐姐 2／14—23min）_audio_index0_01.mp3',
         tag: 'daily',
     },
-
 
     /**
  * dialogue----public/voices/erio台词回-----------
@@ -651,11 +661,11 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
-            zh: '新婚台词1 欢迎回来~（20210119 台词回 28.21）',
+            zh: '新婚台词 欢迎回来~（20210119 台词回 28.21）',
             en: '',
             ja: '',
         },
-        path: '/erio台词回/新婚台词1 欢迎回来~（20210119 台词回 28.21）.mp3',
+        path: '/erio台词回/新婚台词 欢迎回来~（20210119 台词回 28.21）.mp3',
         tag: 'dialogue',
     },
     {
@@ -806,7 +816,7 @@ const voices: VoiceInfo[] = [
             en: '',
             ja: '',
         },
-        path: '/不许涩团长/erio便太发言：大小姐没穿胖次.mp3',
+        path: '/不许涩团长/erio变态发言：大小姐没穿胖次.mp3',
         tag: 'hdame',
     },
     {
@@ -859,11 +869,11 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
-            zh: 'rorio便太不要过来呀',
+            zh: 'rorio变态不要过来呀',
             en: '',
             ja: '',
         },
-        path: '/rorio语音库/rorio便太不要过来呀（20210116 51分30秒）.mp3',
+        path: '/rorio语音库/rorio变态不要过来呀（20210116 51分30秒）.mp3',
         tag: 'rorio',
     },
     {
@@ -877,11 +887,11 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
-            zh: '好可怕，哥哥是个被骂还开心的便太',
+            zh: '好可怕，哥哥是个被骂还开心的变态',
             en: '',
             ja: '',
         },
-        path: '/rorio语音库/好可怕，哥哥是个被骂还开心的便太.mp3',
+        path: '/rorio语音库/好可怕，哥哥是个被骂还开心的变态.mp3',
         tag: 'rorio',
     },
     {
@@ -1024,7 +1034,7 @@ const voices: VoiceInfo[] = [
     },
     {
         messages: {
-            zh: '先吃饭还是先吃我-1',
+            zh: '先吃饭还是先吃我',
             en: '',
             ja: '',
         },
