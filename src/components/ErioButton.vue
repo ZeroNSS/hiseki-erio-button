@@ -84,7 +84,7 @@ function useVoicesPath(path: Ref<string>) {
     const localVoicesPath = computed(() => `${BASE_URL}voices/${path.value}`)
     const voicesPath = computed(() => {
         if (process.env.NODE_ENV === 'production') {
-            return `https://cdn.jsdelivr.net/gh/ZeroNSS/hiseki-erio-button@latest/public${localVoicesPath.value}`
+            return `https://cdn.jsdelivr.net/gh/ZeroNSS/hiseki-erio-button@0.2.1/public${localVoicesPath.value}`
         }
         return localVoicesPath.value
     })
