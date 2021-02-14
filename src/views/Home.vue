@@ -402,5 +402,6 @@ export default defineComponent({
 .friendship-link {
     margin-right: 15px;
     margin-bottom: 15px;
+    text-transform: none;
 }
 </style>
