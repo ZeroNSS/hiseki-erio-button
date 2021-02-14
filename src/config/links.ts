@@ -17,6 +17,6 @@ export const friendshipLinks: Link[] = [
     {
         msg: '古守按钮 O_o',
         url: 'https://button.komori.club/',
-        color: '#444041',
+        color: '#AE3A49',
     },
 ]
