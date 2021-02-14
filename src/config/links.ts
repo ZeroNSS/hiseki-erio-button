@@ -11,7 +11,12 @@ export const friendshipLinks: Link[] = [
     },
     {
         msg: '豹按钮 (:3っ)∋',
-        url: 'https://haruka.fun',
+        url: 'https://haruka.fun/',
         color: '#ffaea6',
+    },
+    {
+        msg: '古守按钮 O_o',
+        url: 'https://button.komori.club/',
+        color: '#444041',
     },
 ]
