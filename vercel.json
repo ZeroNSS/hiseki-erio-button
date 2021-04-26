@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/rss/:match*",
-            "destination": "http://118.31.244.237:1200/:match*"
+            "destination": "http://1.15.84.183:1200/:match*"
         }
     ]
 }

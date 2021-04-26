@@ -57,6 +57,19 @@
                             </h3>
                         </div>
                     </v-card-text>
+                    <v-card-text>
+                        <h2>其他</h2>
+                        <br>
+                        <v-col
+                            cols="12"
+                            sm="8"
+                            md="9"
+                            lg="10"
+                            class="subtitle-1"
+                        >
+                            <b>团长头发模型<a target="_blank" href="http://5.252.166.74/hiseki_erio_hair.7z">下载</a>，由<a target="_blank" href="https://space.bilibili.com/476835027/">小甍境</a>提供</b>
+                        </v-col>
+                    </v-card-text>
                     <v-btn color="primary" @click="$router.push('/')">
                         返回首页
                     </v-btn>

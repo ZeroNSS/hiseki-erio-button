@@ -16,7 +16,7 @@ module.exports = {
         compress: true, // 是否启用gzip压缩
         proxy: {
             '/rss': {
-                target: 'http://118.31.244.237:1200',
+                target: 'http://1.15.84.183:1200',
                 ws: true,
                 changOrigin: true,
                 pathRewrite: {
