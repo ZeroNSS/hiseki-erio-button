@@ -37,6 +37,7 @@
                             <b>声明</b>：本项目仅为 DD 作品，和 绯赤艾莉欧Official 官方没有关联<br>
                             <b>特别感谢</b>：“ <a target="_blank" href="https://github.com/CaoMeiYouRen/shirakami-haruka-button"> 豹按钮(:3っ)∋</a> ”
                             项目，初版源码基本来自于此项目，将于2月开始进行实质的功能性更新<br>
+                            <b>其他</b>：团长头发模型<a target="_blank" href="http://5.252.166.74/hiseki_erio_hair.7z">下载</a>，由<a target="_blank" href="https://space.bilibili.com/476835027/">小甍境</a>提供<br>
                             更多内容请参考 <a href="https://github.com/ZeroNSS/hiseki-erio-button#readme" target="_blank">README</a>
                         </v-col>
                     </v-row>
