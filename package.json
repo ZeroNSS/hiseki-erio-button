@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ZeroNSS/hiseki-erio-button#readme",
   "dependencies": {
-    "@mdi/font": "^5.8.55",
+    "@mdi/font": "^6.6.96",
     "@vue-composable/axios": "^1.0.0-beta.13",
     "@vue/composition-api": "^1.0.0-beta.23",
     "animate.css": "^4.1.1",
